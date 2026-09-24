@@ -1,0 +1,7 @@
+#Week one tech learn 
+#steps for what happens when you type in a URL
+1: lookup:computer sends out search looking for IP number.  
+2:lock: number associated for that URL is returned to the laptop. the laptop then verifies by using https to see if it matches the https it is looking for
+3: Ask: once verified the laptop then asks directly what it wants from the website i.e. return this exact page in this exact format(mobile or laptop)
+4:Answer: the server responds and runs the software associate with the request from the laptop
+5: Assemble: the server then configures the page in the correct way as specified by the laptop. "draws the page" 
