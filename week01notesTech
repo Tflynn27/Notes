@@ -7,4 +7,4 @@
 5: Assemble: the server then configures the page in the correct way as specified by the laptop. "draws the page" 
 
 Claude: responses: the server doesnt draw the page, your browser does. for step 4 a status code "200 OK" comes back plus the html for the page. step 2: the laptop checks the site's certificate which proves it is what it says to be and only then does it run encryption.
-step 1: the laptop asks DNS to translate the name into the webpage IP number
+step 1: the laptop asks DNS to translate the name into the webpage IP number 
