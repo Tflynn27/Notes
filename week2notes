@@ -1,0 +1,6 @@
+#week two notes and answers
+## retransmission= the term used to describe when large chunks of data get messed up and jumbled - when a whole 2mb chunk gets messed up even if just 1500 bytes are flawed
+packets part of the same url may take different routes depending on if the traffic or outtages are ocurring on one route vs the other
+the data is not split so that it is "read" by specialists handeling each packet - rather the packets are just simply passed on to the next place not actually read
+packets pass through maybe 10-20 routers on their way to from connecticuit data center to virginia query 
+no single router knows the full map of the internet
